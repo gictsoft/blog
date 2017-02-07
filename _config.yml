@@ -3,7 +3,7 @@ repository: gictsoft/blog
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: (주)지아이씨티
+topnav_title: GICT
 # this appears on the top navigation bar next to the home button
 
 site_title: (주)지아이씨티 

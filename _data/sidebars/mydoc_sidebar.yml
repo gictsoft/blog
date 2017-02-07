@@ -2,56 +2,40 @@
 
 entries:
 - title: sidebar
-  product: GICT SOFT
-  version: 15.01.09
+  product: 
+  version: 
   folders:
 
-  - title:
-    output: pdf
-    type: frontmatter
-    folderitems:
-    - title:
-      url: /titlepage
-      output: pdf
-      type: frontmatter
-    - title:
-      url: /tocpage
-      output: pdf
-      type: frontmatter
+#  - title:
+#    output: pdf
+#    type: frontmatter
+#    folderitems:
+#    - title:
+#      url: /titlepage
+#      output: pdf
+#      type: frontmatter
+#    - title:
+#      url: /tocpage
+#      output: pdf
+#      type: frontmatter
 
-  - title: 회사소개 
+  - title: NEW
     output: web
     folderitems:
 
-    - title: 회사설립일 
-      url: /mydoc_tag_archives_overview.html
+    - title: post
+      url: /posts.html
       output: web
 
       subfolders:
-      - title: 회사 프로젝트 
+      - title: development
         output: web
         subfolderitems:
 
-        - title: 바닐라코 이벤트 
+        - title: Git
           url: /tag_formatting.html
           output: web
 
-        - title: DateSnapper
+        - title: Tip
           url: /tag_navigation.html
-          output: web
-
-        - title: 클라우드 펀딩 
-          url: /tag_content_types.html
-          output: web
-
-        - title: 조선/해양 지원 웹기반 
-          url: /tag_publishing.html
-          output: web
-
-        - title: 인증서 기반 스탬핑 웹기반 시스템 
-          url: /tag_special_layouts.html
-          output: web
-
-        - title: 수송 최적화
-          url: /tag_collaboration.html
           output: web
