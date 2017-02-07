@@ -2,8 +2,8 @@
 
 entries:
 - title: sidebar
-  product: INDEX
-  version: 123
+  product: GICT SOFT
+  version:
   folders:
 
   - title:
@@ -19,43 +19,39 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: 회사소
+  - title: 회사소개 
     output: web
     folderitems:
 
-    - title: Tag archives overview
+    - title: 회사설립일 
       url: /mydoc_tag_archives_overview.html
       output: web
 
       subfolders:
-      - title: Tag archive pages
+      - title: 회사 프로젝
         output: web
         subfolderitems:
 
-        - title: Formatting pages
+        - title: 바닐라코 이벤
           url: /tag_formatting.html
           output: web
 
-        - title: Navigation pages
+        - title: DateSnapper
           url: /tag_navigation.html
           output: web
 
-        - title: Content types pages
+        - title: 클라우드 펀딩 
           url: /tag_content_types.html
           output: web
 
-        - title: Publishing pages
+        - title: 조선/해양 지원 웹기반 
           url: /tag_publishing.html
           output: web
 
-        - title: Special layout pages
+        - title: 인증서 기반 스탬핑 웹기반 시스템 
           url: /tag_special_layouts.html
           output: web
 
-        - title: Collaboration pages
+        - title: 수송 최적
           url: /tag_collaboration.html
-          output: web
-
-        - title: Troubleshooting pages
-          url: /tag_troubleshooting.html
           output: web
