@@ -3,7 +3,7 @@ title:  "Git Study"
 published: true
 permalink: samplepost.html
 summary: "git study material"
-tags: [blog]
+tags: [news, getting_started]
 ---
 
 1.Git 이란?
