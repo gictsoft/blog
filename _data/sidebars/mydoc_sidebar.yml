@@ -24,7 +24,8 @@ entries:
     folderitems:
     - title: post
       url: /posts.html
-      
+  
+  folders:    
   - title: DEVELOPMENT
     folderitems:
     - title: Git
