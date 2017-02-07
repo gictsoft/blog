@@ -28,11 +28,11 @@ entries:
       output: web
 
       subfolders:
-      - title: 회사 프로젝
+      - title: 회사 프로젝트 
         output: web
         subfolderitems:
 
-        - title: 바닐라코 이벤
+        - title: 바닐라코 이벤트 
           url: /tag_formatting.html
           output: web
 
@@ -52,6 +52,6 @@ entries:
           url: /tag_special_layouts.html
           output: web
 
-        - title: 수송 최적
+        - title: 수송 최적화 
           url: /tag_collaboration.html
           output: web
