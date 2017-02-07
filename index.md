@@ -156,7 +156,7 @@ entries:
     folderitems:
 
    - title: Get started
-      url: /posts.html
+      url: /index.html
       output: web, pdf
 
     - title: Introduction
