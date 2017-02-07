@@ -1,4 +1,4 @@
-repository: tomjohnson1492/documentation-theme-jekyll
+repository: gictsoft/blog
 
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
@@ -6,16 +6,16 @@ output: web
 topnav_title: (주)지아이씨티
 # this appears on the top navigation bar next to the home button
 
-site_title: (주)지아이씨
+site_title: (주)지아이씨티 
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-company_name: Your company
+company_name: (주)지아이씨티 
 # this appears in the footer
 
-github_editme_path: tomjohnson1492/documentation-theme-jekyll/blob/gh-pages/
+github_editme_path: 
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
-disqus_shortname: idrbwjekyll
+disqus_shortname: 
 # if you're using disqus for comments, add the shortname here. if not, leave this value blank.
 
 host: 127.0.0.1
@@ -31,7 +31,7 @@ exclude:
 
 feedback_subject_line: Jekyll documentation theme
 
-feedback_email: tomjohnson1492@gmail.com
+feedback_email: gict@gictsoft.com
 # used as a contact email for the Feedback link in the top navigation bar
 
 # feedback_disable: true
