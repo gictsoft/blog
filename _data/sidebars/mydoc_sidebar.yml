@@ -19,25 +19,17 @@ entries:
 #      output: pdf
 #      type: frontmatter
 
-  - title: NEW
-    output: web
-    folderitems:
 
+  - title: NEW
+    folderitems:
     - title: post
       url: /posts.html
-      output: web
-
-      subfolders:
-      - title: development
-        output: web
-        subfolderitems:
-
-        - title: Git
-          url: git.html
-          output: web
-
-        - title: Tip
-
-           subfolderitems:
-            - title: Jquery
-              url: fuji_apples.html
+      
+  - title: DEVELOPMENT
+    folderitems:
+    - title: Git
+      url: /git.html
+    - title: Tip
+       subfolder:
+       - titler: jquery
+         url: /posts.html
