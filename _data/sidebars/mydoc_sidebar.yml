@@ -24,7 +24,7 @@ entries:
     type: frontmatter
     folderitems:
     - title: post
-      url: /titlepage
+      url: /posts.html
       output: web
       type: frontmatter
       
