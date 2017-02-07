@@ -37,5 +37,7 @@ entries:
           output: web
 
         - title: Tip
-          url: /tag_navigation.html
-          output: web
+
+           subfolderitems:
+            - title: Jquery
+              url: fuji_apples.html
