@@ -1,7 +1,7 @@
 ---
 title:  "Git Study"
 published: true
-permalink: samplepost.html
+permalink: git.html
 summary: "git study material"
 tags: [news, getting_started]
 ---

@@ -33,7 +33,7 @@ entries:
         subfolderitems:
 
         - title: Git
-          url: /tag_formatting.html
+          url: git.html
           output: web
 
         - title: Tip
