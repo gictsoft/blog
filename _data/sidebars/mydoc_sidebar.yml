@@ -24,7 +24,7 @@ entries:
     folderitems:
 
     - title: 회사설립일 
-      url: /tag_formatting.html
+      url: /mydoc_tag_archives_overview.html
       output: web
 
       subfolders:
@@ -52,6 +52,6 @@ entries:
           url: /tag_special_layouts.html
           output: web
 
-        - title: 수송 최적화 
+        - title: 수송 최적화
           url: /tag_collaboration.html
           output: web
