@@ -6,23 +6,41 @@ entries:
   version: 
   folders:
 
+#  - title:
+#    output: pdf
+#    type: frontmatter
+#    folderitems:
+#    - title:
+#      url: /titlepage
+#      output: pdf
+#      type: frontmatter
+#    - title:
+#      url: /tocpage
+#      output: pdf
+#      type: frontmatter
+
   - title: NEW
     output: web
     folderitems:
+
     - title: post
       url: /posts.html
       output: web
-      
+#      type: homepage
+
   - title: DEVELOPMENT
     output: web
     folderitems:
+
     - title: Git
       url: /git.html
       output: web
+
       subfolders:
       - title: Tip
         output: web
-	  	subfolderitems:
-	  	- title: jquery
-	  	  url: /jquery.html
-	  	  output: web
+        subfolderitems:
+
+        - title: jquery
+          url: /jquery.html
+          output: web
