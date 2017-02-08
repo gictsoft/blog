@@ -19,7 +19,7 @@ entries:
 #      output: pdf
 #      type: frontmatter
 
-  - title: NEW
+  - title: New
     output: web
     folderitems:
 
@@ -28,19 +28,27 @@ entries:
       output: web
 #      type: homepage
 
-  - title: DEVELOPMENT
+  - title: Development
     output: web
     folderitems:
 
     - title: Git
       url: /git.html
       output: web
+      
+  - title: Tip
+    output: web
+    folderitems:
 
-      subfolders:
-      - title: Tip
-        output: web
-        subfolderitems:
+    - title: jquery
+      url: /jquery.html
+      output: web
 
-        - title: jquery
-          url: /jquery.html
-          output: web
+#      subfolders:
+#      - title: Tip
+#        output: web
+#        subfolderitems:
+
+#        - title: jquery
+#          url: /jquery.html
+#          output: web
