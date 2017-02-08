@@ -5,12 +5,36 @@ entries:
   levels: one
   folders:
 
-  - title: Post
+#  - title: Post
+#    output: web
+#    folderitems:
+#    - title: git
+#      url: /git.html
+#      output: web
+#    - title: jquery
+#      url: /jquery.html
+#      output: web
+
+  - title: New
     output: web
     folderitems:
-    - title: git
+
+    - title: post
+      url: /posts.html
+      output: web
+
+  - title: Development
+    output: web
+    folderitems:
+
+    - title: Git
       url: /git.html
       output: web
+      
+  - title: Tip
+    output: web
+    folderitems:
+
     - title: jquery
       url: /jquery.html
       output: web
