@@ -40,11 +40,13 @@
             {% endif %}
             {% endfor %}
         </ul>
-      {% else %}
+        
+      	{% else %}
 	      <li class="active">
 	         <a href="{{ folder.url }}">{{ folder.title }}</a>
 	      </li>
         {% endif %}
+	      
         {% endfor %}
         {% endfor %}
         <!-- if you aren't using the accordion, uncomment this block:
