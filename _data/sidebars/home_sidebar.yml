@@ -16,9 +16,9 @@ entries:
 #      output: web
 
   - title: NewPosts
-  	external_url: /index.html
-    output: web
-#    folderitems:
+  	url: /index.html
+#    output: web
+    folderitems:
 
 #    - title: post
 #      url: /index.html
