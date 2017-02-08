@@ -20,7 +20,7 @@ entries:
     folderitems:
 
     - title: post
-      url: /posts.html
+      url: /index.html
       output: web
 
   - title: Development
