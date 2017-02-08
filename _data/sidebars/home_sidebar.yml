@@ -8,6 +8,9 @@ entries:
   - title: Post
     output: web
     folderitems:
-#    - title: Posts
-#      url: /posts.html
-#      output: web
+    - title: git
+      url: /git.html
+      output: web
+    - title: jquery
+      url: /jquery.html
+      output: web
