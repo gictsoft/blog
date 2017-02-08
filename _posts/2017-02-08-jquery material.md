@@ -10,15 +10,15 @@ tags: [news, getting_started]
 
 jQuery는 DOM 준비가 완료 될 때 실행 할 함수를 첨부하는 몇 가지 방법을 제공한다.
 
-### 1. `$(function(){ ... })`
+### 1. $(function(){ ... })
 
-### 2. $(document).ready(function(){ ... })
+### `2. $(document).ready(function(){ ... })`
 
-### 3. $("document").ready(function(){ ... })
+### `3. $("document").ready(function(){ ... })`
 
-### 4. $("img").ready(function((){ ... })
+### `4. $("img").ready(function((){ ... })`
 	
-### 5. $().ready(function(){ ... })
+### `5. $().ready(function(){ ... })`
 
 ```
 jQuery 3.0부터는 $(function(){ ... }) 구문 만 권장합니다.
