@@ -5,12 +5,14 @@ topnav:
   items:
 #    - title: Post
 #      url: /posts
+    - title: GICT Hompage
+      external_url: http:www.gictsoft.com
 
 #Topnav dropdowns
-topnav_dropdowns:
-- title: Topnav dropdowns
-  folders:
-    - title: Go Web Page
-      folderitems:
-        - title: GICT Hompage
-          external_url: http:www.gictsoft.com
+#topnav_dropdowns:
+#- title: Topnav dropdowns
+#  folders:
+#    - title: Go Web Page
+#      folderitems:
+#        - title: GICT Hompage
+#          external_url: http:www.gictsoft.com
