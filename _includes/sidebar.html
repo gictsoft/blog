@@ -43,7 +43,7 @@
         
       	{% else %}
 	      <li class="active">
-	         <a href="{{ folder.url }}">{{ folder.title }}</a>
+	         <a href="{{ folder.url | remove: "/"}}}">{{ folder.title }}</a>
 	      </li>
         {% endif %}
 	      
