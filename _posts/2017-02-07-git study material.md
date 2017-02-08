@@ -16,13 +16,13 @@ Git is a free and open source distributed version control system designed to han
 * 소스코드 관리 + 개발 환경, 빌드, 기타...
 
 
-### 3. 버전관리툴
+### 2. 버전관리툴
 
 * CVS : check out / in 을 이용한 버전관리
 * SVN : CVS와 높은 호환성, 대체 시스템
 * GIT : 우리가 배울 툴
 
-##Git Basic
+## Git Basic
 
 ### 1. 위치에 따른 기본 개념
 

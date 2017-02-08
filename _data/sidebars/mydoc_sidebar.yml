@@ -24,6 +24,6 @@ entries:
       output: web
       type: frontmatter
     - title: jquery
-      url: /posts.html
+      url: /jquery.html
       output: web
       type: frontmatter
