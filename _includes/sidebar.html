@@ -49,6 +49,12 @@
            </p>
            -->
     </li>
+    {% else %}
+    <li>
+        <a href="{{ folder.url }}">{{ folder.title }}</a>
+    </li>
+    
+    {%endif %}
 </ul>
 </div>
 
