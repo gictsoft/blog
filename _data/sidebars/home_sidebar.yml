@@ -15,13 +15,14 @@ entries:
 #      url: /jquery.html
 #      output: web
 
-  - title: New
+  - title: New Posts
+  	url: /
     output: web
     folderitems:
 
-    - title: post
-      url: /index.html
-      output: web
+#    - title: post
+#      url: /index.html
+#      output: web
 
   - title: Development
     output: web
