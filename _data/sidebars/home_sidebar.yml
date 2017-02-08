@@ -16,7 +16,6 @@ entries:
 #      output: web
 
   - title: NewPosts
-  	url: /
 #    output: web
 #    folderitems:
 
