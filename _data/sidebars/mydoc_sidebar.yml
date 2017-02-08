@@ -8,22 +8,21 @@ entries:
 
   - title: NEW
     output: web
-    type: frontmatter
     folderitems:
     - title: post
       url: /posts.html
       output: web
-      type: frontmatter
       
   - title: DEVELOPMENT
     output: web
-    type: frontmatter
     folderitems:
     - title: Git
       url: /git.html
       output: web
-      type: frontmatter
-    - title: jquery
-      url: /jquery.html
-      output: web
-      type: frontmatter
+      subfolders:
+      - title: Tip
+        output: web
+	  	subfolderitems:
+	  	- title: jquery
+	  	  url: /jquery.html
+	  	  output: web
