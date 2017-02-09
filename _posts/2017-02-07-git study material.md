@@ -4,6 +4,7 @@ published: true
 permalink: git.html
 summary: "git study material"
 tags: [news, getting_started]
+comments: true
 ---
 
 ## Git 이란?

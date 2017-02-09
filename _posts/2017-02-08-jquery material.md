@@ -4,6 +4,7 @@ published: true
 permalink: jquery.html
 summary: "jQuery material"
 tags: [news, getting_started]
+comments: true
 ---
 
 ## jQuery
