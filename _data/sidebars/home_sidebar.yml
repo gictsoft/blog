@@ -15,8 +15,8 @@ entries:
 #      url: /jquery.html
 #      output: web
 
-  - title: New Posts
-    url: /blog/
+#  - title: New Posts
+#    url: /blog/
 #    output: web
 #    folderitems:
 
